@@ -7,4 +7,4 @@ A Game Made with unity and c#
 
 # To Download And Play This Game
 just click on this link and install the app.
-https://bit.ly/2OWbwjE
+https://github.com/MrSharpp/Flappy-Corona-Game-With-Unity/releases/tag/1.0
