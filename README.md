@@ -9,4 +9,5 @@ A Corona Game Made in unity using c#
 
 # To Download And Play This Game
 just click on this link and install the app.
-https://github.com/MrSharpp/Flappy-Corona-Game-With-Unity/releases/tag/1.0
+<a href="https://github.com/MrSharpp/Flappy-Corona-Game-With-Unity/releases/tag/1.0">Download The Game Apk File</a>
+
